@@ -1,6 +1,6 @@
 <!-- ### Hi there, [I'm Fahad Abdul Qayyum][website] <img width="100" src="https://slackmojis.com/emojis/22158-oh-hello/download" />
 
-[![Website](https://img.shields.io/website?label=Fahad.com&style=for-the-badge&url=https://fahadd.netlify.app)][website]
+[![Website](https://img.shields.io/website?label=Fahad.com&style=for-the-badge&url=https%253A%252F%252Ffahadd.netlify.app)][website]
 
 I am a Fullstack developer,
 
@@ -44,7 +44,7 @@ I am a Fullstack developer,
 
 </details> -->
 
-<!-- [website]: https://qtr.netlify.app
+<!-- [website]: https://fahadd.netlify.app
 [facebook]: https://www.facebook.com/fahad.abdulqayyum.1
 [linkedin]: https://www.linkedin.com/in/fahadabdulqayyum/ -->
 
