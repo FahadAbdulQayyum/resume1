@@ -25,7 +25,7 @@ I am a Fullstack developer,
 <!-- ### Connect with me:
 
 [<img align="left" alt="Fahad.com" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1571911709/6804/globe.png?1571911709" />][website]
-[<img align="left" alt="qtr.netlify.app | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
+[<img align="left" alt="fahadd.netlify.app | Facebook" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1450319443/34/facebook.png?1450319443" />][facebook]
 [<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1470343326/711/linkedin.png?1470343326" />][linkedin] -->
 
 <!-- [<img align="left" alt="hussainmansoor876 | StackOverflow" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966" />][stackoverflow] -->
@@ -60,7 +60,7 @@ Click for Future! See you there with best wishes! -->
 
 ### Hi there, [I'm Fahad Abdul Qayyum][website] <img width="100" src="https://slackmojis.com/emojis/22158-oh-hello/download" />
 
-[![Website](https://img.shields.io/website?label=Fahad.com&style=for-the-badge&url=https%3A%2F%2Fqtr.netlify.app)][website]
+[![Website](https://img.shields.io/website?label=Fahad.com&style=for-the-badge&url=https%3A%2F%2Ffahadd.netlify.app)][website]
 
 I am a Fullstack developer,
 
