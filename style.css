@@ -15,15 +15,19 @@
   --trans-white: background-color:
   rgb(219, 217, 217);
   /* Previous Color */
-  /* --right-side:
-  rgb(219, 217, 217);
-  --left-side:
-  rgb(73, 72, 72); */
-
   --right-side:
   rgb(219, 217, 217);
   --left-side:
-  #0081B4;
+  rgb(73, 72, 72);
+
+  /* --right-side:
+  #A0C3D2; */
+  /* --left-side:
+  rgb(73, 72, 72); */
+  /* --left-side:
+  #0081B4; */
+  /* --left-side:
+  #0081B4; */
 }
 * {
   margin: 0;
@@ -39,6 +43,24 @@ body {
   min-height: 100vh;
   /* font-size: 16px; */
 }
+.cont{
+  position: relative;
+}
+#hover{
+  background-color: grey;
+  color: white;
+  font-size: 20px;
+  height: 5%;
+  width: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 30%;
+  left: 0;
+  border-radius: 50px;
+  z-index: 1;
+}
 .giant-container{    
     /* transform: perspective( 1000px ) rotateX( 45deg ); */
     transform: perspective( 3000px ) rotateX( 70deg ) skew(-10deg);
@@ -48,14 +70,20 @@ body {
     /* height: 100px;
     transform: skewY(10deg); */
 }
-.giant-container:hover{
+  .giant-container:hover{
     /* transition: ease-in-out;
     transition-delay: 5s; */
     transform: perspective(100px) rotateX( 0 );
     width: 100%;
     display: flex;
     justify-content: center;
+    display: block;
 }
+
+.cont:hover #hover{
+  display: none;
+}
+
 .container {
   position: relative;
   width: 100%;
