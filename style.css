@@ -9,7 +9,8 @@
   --secondary:
   rgb(68, 153, 85);
   --common: darkcyan;
-  --common: goldenrod;
+/*   --common: goldenrod; */
+  --common: rgb(32, 206, 218);
   --transparent:
   rgb(73, 72, 72);
   --trans-white: background-color:
