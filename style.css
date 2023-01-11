@@ -9,7 +9,8 @@
   --secondary:
   rgb(68, 153, 85);
   --common: darkcyan;
-/*   --common: goldenrod; */
+  /* --common: goldenrod; */
+  /* --common: rgb(218, 184, 32); */
   --common: rgb(32, 206, 218);
   --transparent:
   rgb(73, 72, 72);
@@ -74,7 +75,8 @@ body {
   .giant-container:hover{
     /* transition: ease-in-out;
     transition-delay: 5s; */
-    transform: perspective(100px) rotateX( 0 );
+    /* transform: perspective(100px); */
+    transform: perspective(1000px) rotateX( 0 );
     width: 100%;
     display: flex;
     justify-content: center;
