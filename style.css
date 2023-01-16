@@ -45,9 +45,9 @@ body {
   min-height: 100vh;
   /* font-size: 16px; */
 }
-/* .cont{
+.cont{
   position: relative;
-} */
+}
 #hover{
   background-color: grey;
   color: white;
@@ -63,21 +63,22 @@ body {
   border-radius: 50px;
   z-index: 1;
 }
-/* .giant-container{    
-    /* transform: perspective( 1000px ) rotateX( 45deg ); 
+.giant-container{    
+    /* transform: perspective( 1000px ) rotateX( 45deg ); */
     transform: perspective( 3000px ) rotateX( 70deg ) skew(-10deg);
     transition: transform .5s;
     
     width: 150px;
     /* height: 100px;
-    transform: skewY(10deg); 
-} */
+    transform: skewY(10deg); */
+}
   .giant-container:hover{
     /* transition: ease-in-out;
     transition-delay: 5s; */
     /* transform: perspective(100px); */
     transform: perspective(1000px) rotateX( 0 );
-    width: 100%;
+    /* width: 100%; */
+    width: 108%;
     display: flex;
     justify-content: center;
     display: block;
